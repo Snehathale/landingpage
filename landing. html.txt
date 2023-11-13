@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Parcel Sandbox</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="landingpage.css" />
+  </head>
+
+  <body>
+   
+    <div class="app">
+      <div class="container">
+        <div class="left-side-header">
+          <img
+            src="https://github.com/qualialabs/fed-challenge/blob/master/code/images/logo.png?raw=true"
+          />
+          <h1 class="title">Above Fold Page Header Content</h1>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation
+          </p>
+          <button class="button">
+            click me!
+          </button>
+        </div>
+        <img
+          src="https://github.com/qualialabs/fed-challenge/blob/master/code/images/hero-graphic.png?raw=true"
+          class="hero"
+        />
+
+        <!-- Hero Section !--->
+      </div>
+    </div>
+
+    <div class="page">
+      <div class="card-container">
+        <div class="boxHolder">
+          <div class="box">
+            <div class="box-div">
+              <img
+                class="box-images"
+                src="https://github.com/qualialabs/fed-challenge/blob/master/code/images/card-logo-mark.png?raw=true"
+                class="img"
+              />
+            </div>
+            <h3>Header 1</h3>
+          </div>
+          <div class="box">
+            <div class="box-div">
+              <img
+                class="box-images"
+                src="https://github.com/qualialabs/fed-challenge/blob/master/code/images/card-logo-mark.png?raw=true"
+                class="img"
+              />
+            </div>
+            <h3>Header 2</h3>
+          </div>
+          <div class="box">
+            <div class="box-div">
+              <img
+                class="box-images"
+                src="https://github.com/qualialabs/fed-challenge/blob/master/code/images/card-logo-mark.png?raw=true"
+                class="img"
+              />
+            </div>
+            <h3>Header 3</h3>
+          </div>
+          <div class="box">
+            <div class="box-div">
+              <img
+                src="https://github.com/qualialabs/fed-challenge/blob/master/code/images/card-logo-mark.png?raw=true"
+                class="img"
+              />
+            </div>
+            <h3>Header 4</h3>
+          </div>
+          <div class="box">
+            <div class="box-div">
+              <img
+                src="https://github.com/qualialabs/fed-challenge/blob/master/code/images/card-logo-mark.png?raw=true"
+                class="img"
+              />
+            </div>
+            <h3>Header 5</h3>
+          </div>
+          <div class="box">
+            <div class="box-div">
+              <img
+                src="https://github.com/qualialabs/fed-challenge/blob/master/code/images/card-logo-mark.png?raw=true"
+                class="img"
+              />
+            </div>
+            <h3>Header 6</h3>
+            <img />
+          </div>
+
+          <!-- Cards --->
+        </div>
+
+        <div class="container">
+          <!-- Bottom CTA --->
+        </div>
+			</div>
+			
+			<div class="display-inline">
+
+					<div class='footer-p'>
+						
+							numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam
+
+						</div>
+					
+						<div class='footer-p'>
+								numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam
+							</div>
+						</div>
+
+      <div class="footer">
+
+        <div class="container-footer">
+				
+          <img
+            class="footer-image"
+            src="https://github.com/qualialabs/fed-challenge/blob/master/code/images/cta-bg.png?raw=true"
+          />
+          <div class="bottom-footer">
+            <img
+            class="footer-logo"
+            src="https://github.com/qualialabs/fed-challenge/blob/master/code/images/footer-logo.png?raw=true"
+          />
+        </div>
+        <!-- Footer !--->
+      </div>
+    </div>
+
+    <script src="src/index.js"></script>
+  </body>
+</html>
